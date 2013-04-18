@@ -1,6 +1,6 @@
 {
-  "oauth_client_id": "GITHUB_APPLICATION_CLIENT_ID",
-  "oauth_client_secret": "GITHUB_APPLICATION_CLIENT_SECRET",
+  "oauth_client_id": "47be2cb6636861a8c77d",
+  "oauth_client_secret": "b5a3a776300e0d9da36cdd43626651409225465c",
   "oauth_host": "github.com",
   "oauth_port": 443,
   "oauth_path": "/login/oauth/access_token",
