@@ -1,6 +1,6 @@
 {
-  "oauth_client_id": "9dd68bf1f97f8318f804",
-  "oauth_client_secret": "22f5065618d39c8d1002cec8ae9154a798b5dc98",
+  "oauth_client_id": "47be2cb6636861a8c77d",
+  "oauth_client_secret": "8d26523f31359394a445f89e8ff90b48e8be007c",
   "oauth_host": "github.com",
   "oauth_port": 443,
   "oauth_path": "/login/oauth/access_token",
